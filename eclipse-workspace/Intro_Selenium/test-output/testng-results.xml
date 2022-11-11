@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="9" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T07:43:01 IST" name="Suite" finished-at="2022-10-20T07:43:01 IST" duration-ms="187">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T07:43:01 IST" name="Personalloan" finished-at="2022-10-20T07:43:01 IST" duration-ms="66">
+      <class name="test.day2">
+        <test-method signature="PersonalLoan()[pri:0, instance:test.day2@124c278f]" started-at="2022-10-20T07:43:01 IST" name="PersonalLoan" finished-at="2022-10-20T07:43:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoan -->
+      </class> <!-- test.day2 -->
+      <class name="test.day1">
+        <test-method signature="demo()[pri:0, instance:test.day1@3d121db3]" started-at="2022-10-20T07:43:01 IST" name="demo" finished-at="2022-10-20T07:43:01 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="secondtest()[pri:0, instance:test.day1@3d121db3]" started-at="2022-10-20T07:43:01 IST" name="secondtest" finished-at="2022-10-20T07:43:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondtest -->
+      </class> <!-- test.day1 -->
+    </test> <!-- Personalloan -->
+    <test started-at="2022-10-20T07:43:01 IST" name="login" finished-at="2022-10-20T07:43:01 IST" duration-ms="35">
+      <class name="test.day4">
+        <test-method signature="bus()[pri:0, instance:test.day4@7880cdf3]" started-at="2022-10-20T07:43:01 IST" name="bus" finished-at="2022-10-20T07:43:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bus -->
+        <test-method signature="car()[pri:0, instance:test.day4@7880cdf3]" started-at="2022-10-20T07:43:01 IST" name="car" finished-at="2022-10-20T07:43:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car -->
+        <test-method signature="train()[pri:0, instance:test.day4@7880cdf3]" started-at="2022-10-20T07:43:01 IST" name="train" finished-at="2022-10-20T07:43:01 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- train -->
+      </class> <!-- test.day4 -->
+      <class name="test.day3">
+        <test-method signature="Weblogin()[pri:0, instance:test.day3@6af93788]" started-at="2022-10-20T07:43:01 IST" name="Weblogin" finished-at="2022-10-20T07:43:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Weblogin -->
+        <test-method signature="mobilelogin()[pri:0, instance:test.day3@6af93788]" started-at="2022-10-20T07:43:01 IST" name="mobilelogin" finished-at="2022-10-20T07:43:01 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilelogin -->
+      </class> <!-- test.day3 -->
+    </test> <!-- login -->
+  </suite> <!-- Suite -->
+</testng-results>
